@@ -13,7 +13,7 @@ In this project, I analyzed network traffic using Wireshark to understand how da
 # What I Did
 -Captured network packets
 -Applied display filters..
--Observed protocols like HTTP, TLS HANDSHAKE, and TCP
+-Observed protocols like HTTP, TLS HANDSHAKE, and TCP.
 
 
 
